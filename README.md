@@ -18,6 +18,6 @@
 
 ### Tarefa 1 - Inspeção
 
-* [Wiki](/wiki/Inspeção)
-* [Referências](/practices/inspection/bibliography)
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Inspe%C3%A7%C3%A3o)
+* [Referências](/practices/inspection/bibliography.md)
 * [Apresentação](/practices/inspection/inspection.pdf)
