@@ -12,7 +12,7 @@
 | Pedro Sales | | [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
 | Phelipe Wener | | [@pwener](https://github.com/pwener) |
 | Rafael Rabetti | | [@rafaelrabetti](https://github.com/rafaelrabetti) |
-| Tâmara Barbosa | | [@tamarabarbosa](https://github.com/tamarabarbosa) |
+| Tâmara Barbosa | 12/0022613 | [@tamarabarbosa](https://github.com/tamarabarbosa) |
 
 ## Tarefas
 
