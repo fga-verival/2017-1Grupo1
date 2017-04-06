@@ -8,7 +8,7 @@
 | Jonathan Moraes | 12/0122553 | [@arkye](https://github.com/arkye) |
 | Jonathan Rufino | | [@JonathanRufino](https://github.com/JonathanRufino) |
 | Laércio Júnior | | [@laercios](https://github.com/laercios) |
-| Luís Resende | | [@luisfrvilela](https://github.com/luisfrvilela) |
+| Luís Resende | 12/0036754 | [@luisfrvilela](https://github.com/luisfrvilela) |
 | Pedro Sales | | [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
 | Phelipe Wener | | [@pwener](https://github.com/pwener) |
 | Rafael Rabetti | | [@rafaelrabetti](https://github.com/rafaelrabetti) |
