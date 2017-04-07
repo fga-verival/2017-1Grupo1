@@ -7,7 +7,7 @@
 | Gabriel Araújo | 12/0118220 | [@Gabiras12](https://github.com/Gabiras12) |
 | Jonathan Moraes | 12/0122553 | [@arkye](https://github.com/arkye) |
 | Jonathan Rufino | 10/0107826 | [@JonathanRufino](https://github.com/JonathanRufino) |
-| Laércio Júnior | | [@laercios](https://github.com/laercios) |
+| Laércio Júnior | 13/0119105 | [@laercios](https://github.com/laercios) |
 | Luís Resende | 12/0036754 | [@luisfrvilela](https://github.com/luisfrvilela) |
 | Pedro Sales |12/0020408| [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
 | Phelipe Wener | 12/0132893 | [@pwener](https://github.com/pwener) |
