@@ -11,7 +11,7 @@
 | Luís Resende | 12/0036754 | [@luisfrvilela](https://github.com/luisfrvilela) |
 | Pedro Sales | | [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
 | Phelipe Wener | 12/0132893 | [@pwener](https://github.com/pwener) |
-| Rafael Rabetti | | [@rafaelrabetti](https://github.com/rafaelrabetti) |
+| Rafael Rabetti | 13/0016560 | [@rafaelrabetti](https://github.com/rafaelrabetti) |
 | Tâmara Barbosa | 12/0022613 | [@tamarabarbosa](https://github.com/tamarabarbosa) |
 
 ## Tarefas
