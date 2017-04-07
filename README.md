@@ -4,7 +4,7 @@
 
 | Nome | Matrícula | Github |
 |:----:|:---------:|:------:|
-| Gabriel Araújo | | [@Gabiras12](https://github.com/Gabiras12) |
+| Gabriel Araújo | 12/0118220 | [@Gabiras12](https://github.com/Gabiras12) |
 | Jonathan Moraes | 12/0122553 | [@arkye](https://github.com/arkye) |
 | Jonathan Rufino | 10/0107826 | [@JonathanRufino](https://github.com/JonathanRufino) |
 | Laércio Júnior | | [@laercios](https://github.com/laercios) |
