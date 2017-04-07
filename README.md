@@ -9,7 +9,7 @@
 | Jonathan Rufino | 10/0107826 | [@JonathanRufino](https://github.com/JonathanRufino) |
 | Laércio Júnior | | [@laercios](https://github.com/laercios) |
 | Luís Resende | 12/0036754 | [@luisfrvilela](https://github.com/luisfrvilela) |
-| Pedro Sales | | [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
+| Pedro Sales |12/0020408| [@PedroHenriqueSales](https://github.com/PedroHenriqueSales) |
 | Phelipe Wener | 12/0132893 | [@pwener](https://github.com/pwener) |
 | Rafael Rabetti | 13/0016560 | [@rafaelrabetti](https://github.com/rafaelrabetti) |
 | Tâmara Barbosa | 12/0022613 | [@tamarabarbosa](https://github.com/tamarabarbosa) |
