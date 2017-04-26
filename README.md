@@ -14,6 +14,13 @@
 | Rafael Rabetti | 13/0016560 | [@rafaelrabetti](https://github.com/rafaelrabetti) |
 | Tâmara Barbosa | 12/0022613 | [@tamarabarbosa](https://github.com/tamarabarbosa) |
 
+## Projeto
+
+### 1ª Entrega
+
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/sumário-primeira-entrega)
+* [Apresentação](/project/doccode_aps_1.pdf)
+
 ## Tarefas
 
 ### Tarefa 1 - Inspeção
