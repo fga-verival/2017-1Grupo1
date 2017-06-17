@@ -18,13 +18,28 @@
 
 ### 1ª Entrega
 
-* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/sumário-primeira-entrega)
-* [Apresentação](/project/doccode_aps_1.pdf)
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Sumário---Primeira-Entrega)
+* [Apresentação](https://github.com/fga-verival/2017-1Grupo1/blob/master/project/doccode_aps_1.pdf)
+
+### 2ª Entrega
+
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Sumário---Segunda-Entrega)
+* [Apresentação](https://github.com/fga-verival/2017-1Grupo1/blob/master/project/doccode_aps_2.pdf)
 
 ## Tarefas
 
 ### Tarefa 1 - Inspeção
 
 * [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Inspe%C3%A7%C3%A3o)
-* [Referências](/practices/inspection/bibliography.md)
-* [Apresentação](/practices/inspection/inspection.pdf)
+* [Referências](https://github.com/fga-verival/2017-1Grupo1/blob/master/practices/inspection/bibliography.md)
+* [Apresentação](https://github.com/fga-verival/2017-1Grupo1/blob/master/practices/inspection/inspection.pdf)
+
+### Tarefa 2 - Fábrica de Software
+
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Relat%C3%B3rio-de-Fabrica-de-Software-no-Contexto-MPS)
+* [Documento](https://github.com/fga-verival/2017-1Grupo1/blob/master/Relat%C3%B3rio-de-Fabrica-de-Software-no-Contexto-MPS.pdf)
+
+### Tarefa 3 - Teste de Software
+
+* [Wiki](https://github.com/fga-verival/2017-1Grupo1/wiki/Cruzada-3-(Testes))
+* [Apresentação](#)
